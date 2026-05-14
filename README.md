@@ -3,7 +3,7 @@
 **Analista de Business Intelligence | Power BI · SQL · Python**  
 📍 Lima, Perú · 📧 fquispec@outlook.es
 
-Especializado en convertir datos en decisiones comerciales de alto impacto. He liderado iniciativas que redujeron tiempos de análisis en **69%**, disminuyeron quiebres de stock en **37%** y contribuyeron a escalar una empresa inmobiliaria del puesto 16 al **top 10** del ranking nacional de participación de mercado.
+Especializado en convertir datos en decisiones comerciales de alto impacto. He participado en iniciativas que redujeron tiempos de análisis en **69%**, disminuyeron quiebres de stock en **37%** e incrementaron la rotación de stock en 15% principalmente en campañas de alta demanda como Black Fridays.
 
 ---
 
@@ -22,7 +22,6 @@ Especializado en convertir datos en decisiones comerciales de alto impacto. He l
 ![VBA](https://img.shields.io/badge/Macros%20VBA-217346?style=flat&logo=microsoft&logoColor=white)
 
 **ML & Modelado**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange%20Data%20Mining-FA7343?style=flat&logoColor=white)
 
 ---
