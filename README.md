@@ -42,7 +42,7 @@ Especializado en convertir datos en decisiones comerciales de alto impacto. He p
 
 ## 📈 Experiencia
 
-- **Consultor BI Freelance** — E-commerce · 2025 - actualidad
+- **Analista de Inteligencia Comercial** — Freelance · 2025 - actualidad
 - **Analista de Inteligencia Comercial** — Invent Inmobiliaria · 2025
 - **Analista de Inteligencia Comercial** — CC GROUP · 2023 - 2025
 
