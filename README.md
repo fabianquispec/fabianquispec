@@ -32,8 +32,8 @@ He participado en iniciativas que redujeron tiempos de análisis en **69%**, dis
 
 | Proyecto | Herramientas | Descripción |
 |----------|-------------|-------------|
-| 🔴 [Dashboard Ejecutivo 360°](https://github.com/fabianquispec/dashboard-ejecutivo-360-powerbi) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) · DAX avanzado · Power Query | Panel de análisis ejecutivo 360° que consolida los KPI estratégicos en el desempeño comercial, clientes, rentabilidad, operaciones y gestión de ejecución para la toma de decisiones basada en datos.  |
-| 🟠 [Brazilian E-Commerce Marketplace Analysis (Olist)](https://github.com/fabianquispec/olist-ecommerce-sql-analytics) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) · CTEs · Windows functions · Agregaciones avanzadas | Análisis SQL end-to-end del marketplace brasileño Olist. Identifiqué patrones de retraso logístico por región, comportamiento de recompra por segmento de cliente y correlación entre tiempo de entrega y satisfacción.   |
+| 🔴 [**Dashboard Ejecutivo 360°**](https://github.com/fabianquispec/dashboard-ejecutivo-360-powerbi) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) · DAX avanzado · Power Query | Panel de análisis ejecutivo 360° que consolida los KPI estratégicos en el desempeño comercial, clientes, rentabilidad, operaciones y gestión de ejecución para la toma de decisiones basada en datos.  |
+| 🟠 [**Brazilian E-Commerce Marketplace Analysis (Olist)**](https://github.com/fabianquispec/olist-ecommerce-sql-analytics) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) · CTEs · Windows functions · Agregaciones avanzadas | Análisis SQL end-to-end del marketplace brasileño Olist. Identifiqué patrones de retraso logístico por región, comportamiento de recompra por segmento de cliente y correlación entre tiempo de entrega y satisfacción.   |
 
 > 🔗 Consulta los links para revisar los repositorios publicados.
 
