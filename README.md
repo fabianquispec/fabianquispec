@@ -33,7 +33,7 @@ Especializado en convertir datos en decisiones comerciales de alto impacto. He p
 | 🔴 [Dashboard Ejecutivo 360°](https://github.com/fabianquispec/dashboard-ejecutivo-360-powerbi) | Power BI · DAX avanzado · Power Query | Panel de análisis ejecutivo 360° que consolida los KPI estratégicos en el desempeño comercial, clientes, rentabilidad, operaciones y gestión de ejecución para la toma de decisiones basada en datos.  |
 | 🟠 [Brazilian E-Commerce Marketplace Analysis (Olist)](https://github.com/fabianquispec/olist-ecommerce-sql-analytics) | SQL · CTEs · Windows functions · Agregaciones avanzadas | Análisis SQL end-to-end del marketplace brasileño Olist. Identifiqué patrones de retraso logístico por región, comportamiento de recompra por segmento de cliente y correlación entre tiempo de entrega y satisfacción.   |
 
-> 🔗 Los links se actualizarán conforme se publiquen los repositorios.
+> 🔗 Consulta los links para revisar los repositorios publicados.
 
 ---
 
