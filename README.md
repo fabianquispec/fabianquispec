@@ -30,11 +30,9 @@ Especializado en convertir datos en decisiones comerciales de alto impacto. He p
 
 | Proyecto | Herramientas | Descripción |
 |----------|-------------|-------------|
-| 🔴 [Dashboard Ejecutivo 360°](#) | Power BI · SQL · Python | Dashboard integral con 10 páginas: ventas, forecast, RFM, inventario, mercado y alertas |
-| 🟠 [Segmentación de Clientes RFM](#) | Python · Power BI | Segmentación con K-means para personalización comercial |
-| 🟡 [Forecast de Ventas](#) | Python · Series Temporales | Modelo predictivo de ventas con visualización ejecutiva |
-| 🟢 [Optimización de Inventario](#) | SQL · Power Query | Modelo que redujo quiebres de stock en 37% |
-| 🔵 [Pipeline ETL Automatizado](#) | Power Query · SQL | Flujo ETL que redujo tiempos de reporting en 69% |
+| 🔴 [Dashboard Ejecutivo 360°](#) | Power BI · DAX avanzado · Power Query | Panel de análisis ejecutivo 360° que consolida los KPI estratégicos en el desempeño comercial, clientes, rentabilidad, operaciones y gestión de ejecución para la toma de decisiones basada en datos.  |
+| 🟠 [Brazilian E-Commerce Marketplace Analysis (Olist)](#) | SQL · CTEs · Windows functions · Agregaciones avanzadas | Análisis SQL end-to-end del marketplace brasileño Olist. Identifiqué patrones de retraso logístico por región, comportamiento de recompra por segmento de cliente y correlación entre tiempo de entrega y satisfacción. Incluye 
+recomendaciones accionables para optimizar operaciones y retención.  |
 
 > 🔗 Los links se actualizarán conforme se publiquen los repositorios.
 
