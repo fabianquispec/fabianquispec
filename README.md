@@ -3,7 +3,7 @@
 **Analista de Business Intelligence | Power BI · SQL · Python**  
 📍 Lima, Perú · 📧 fquispec@outlook.es
 
-Especializado en convertir datos en decisiones comerciales de alto impacto. He participado en iniciativas que redujeron tiempos de análisis en **69%**, disminuyeron quiebres de stock en **37%** e incrementaron la rotación de stock en 15% principalmente en campañas de alta demanda como Black Fridays.
+Especializado en convertir datos en decisiones comerciales de alto impacto. He participado en iniciativas que redujeron tiempos de análisis en **69%**, disminuyeron quiebres de stock en **37%** e incrementaron la rotación de stock en **15%** principalmente en campañas de alta demanda como Black Fridays.
 
 ---
 
@@ -39,7 +39,7 @@ Especializado en convertir datos en decisiones comerciales de alto impacto. He p
 
 ## 📈 Experiencia
 
-- **Analista de Inteligencia Comercial** — Freelance · 2025 - actualidad
+- **Consultor de Business Intelligence** — Freelance · 2025 - actualidad
 - **Analista de Inteligencia Comercial** — Invent Inmobiliaria · 2025
 - **Analista de Inteligencia Comercial** — CC GROUP · 2023 - 2025
 
